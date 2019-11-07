@@ -11,4 +11,5 @@ pageextension 50110 CustomerListExt extends "Customer List"
 
     var
         myint: Integer;
+        mystr: Text;
 }
