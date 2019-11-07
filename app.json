@@ -1,0 +1,19 @@
+{
+  "id": "3ffdb8d1-5aeb-458a-a0d6-7298a8234eaa",
+  "name": "NewProject",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "15.0.0.0",
+  "contextSensitiveHelpUrl": "https://NewProject.com/help/",
+  "showMyCode": true,
+  "runtime": "4.0"
+}
