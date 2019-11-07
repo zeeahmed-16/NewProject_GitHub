@@ -6,7 +6,7 @@ table 50109 TestTable
     {
         field(1; MyField; Integer)
         {
-            DataClassification = ToBeClassified;
+
 
         }
     }
